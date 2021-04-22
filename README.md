@@ -6,3 +6,4 @@ For datasets: You have to add their path manually to your code
 
 1. For LendingClub Loan Datasets with logistic Regression: Please run DP__Perturbation_logisticRegression_loanData.ipynb
 2. For LendingClub Loan Datasets with DNN: DNN_Perturbation_loanData.ipynb
+3. LendingClub Loan Dataset: https://www.kaggle.com/wordsforthewise/lending-club: Accepted data
