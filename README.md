@@ -9,3 +9,6 @@ For datasets: You have to add their path manually to your code
 3. LendingClub Loan Dataset: https://www.kaggle.com/wordsforthewise/lending-club: Accepted data
 4. For Cifar-10 Datasets with logistic Regression: LR_Cifar10.ipynb
 5. For Cifar-10 Datasets with DNN: DNN_Cifar10.ipynb
+6. For Covid-19 Datasets with logistic Regression: LR_Covid19.ipynb
+7. For Covid-19 Datasets with DNN: DNN_Covid19.ipynb
+8. Covid-19 Dataset: https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset
