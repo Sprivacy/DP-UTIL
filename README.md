@@ -4,6 +4,6 @@ For Gradient Perturbation: Tensorflow Privacy Library
 All the installation was done within Google colab
 For datasets: You have to add their path manually to your code
 
-1. For LendingClub Loan Datasets with logistic Regression: Please run DP__Perturbation_logisticRegression_loanData.ipynb
-2. For LendingClub Loan Datasets with DNN: DNN_Perturbation_loanData.ipynb
+1. For LendingClub Loan Datasets with logistic Regression: LR_Loan.ipynb
+2. For LendingClub Loan Datasets with DNN: DNN_Loan.ipynb
 3. LendingClub Loan Dataset: https://www.kaggle.com/wordsforthewise/lending-club: Accepted data
