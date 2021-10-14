@@ -1,4 +1,5 @@
-# Machine-Learning-with-Differential_Privacy
+# DP-UTIL: Comprehensive Utility Analysis of Differential Privacy in Machine Learning
+
 Machine Learing with Differential Privacy: For Objective Perturbation, we used IBM Differential Privacy Library
 For Gradient Perturbation: Tensorflow Privacy Library
 All the installation was done within Google colab
